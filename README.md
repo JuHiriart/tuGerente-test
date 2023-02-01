@@ -34,3 +34,26 @@ test técnico de tuGerente
 
 
 ## Ejemplos de uso de endpoints por Postman
+
+uso del ***GET reserva/***
+
+![image](https://user-images.githubusercontent.com/30692558/216155679-9f94271e-71b8-4f5d-bd98-f814ef8819ee.png)
+
+
+uso del ***GET reserva/:id***
+
+![image](https://user-images.githubusercontent.com/30692558/216156001-c39b6f75-637c-4c4a-8e64-dda6e219d17a.png)
+
+
+uso del ***POST reserva/***
+
+![image](https://user-images.githubusercontent.com/30692558/216156259-a4dcb234-7ea2-47d3-a9d8-e9aef6731e2a.png)
+
+
+uso del ***DELETE reserva/:id***
+
+![image](https://user-images.githubusercontent.com/30692558/216156484-d828a4a7-453b-42dc-90bc-4075ec69714d.png)
+
+
+
+
