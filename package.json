@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node app/src/app.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "mysql2": "^3.1.0",

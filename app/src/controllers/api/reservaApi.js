@@ -65,6 +65,20 @@ const reservaApi = {
             }
           })
         })
+    },
+
+    reservaBorrar: (req, res) => {
+      Reserva.destroy({
+        where: {
+          id: req.params.id
+        }
+      })
+      .then( respuesta => {
+        return res.status(200).json(respuesta);
+      })
+      .catch( error => {
+        return res.status(500).json(error);
+      })
     }
       
 }

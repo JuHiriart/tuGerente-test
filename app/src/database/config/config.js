@@ -3,24 +3,27 @@ module.exports = {
 
   "development": {
     "username": "root",
-    "password": null,
+    "password": "test",
     "database": "tuGerente_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "host": "0.0.0.0",
+    "dialect": "mysql",
+    "port": "33060"
   },
   "test": {
     "username": "root",
-    "password": null,
+    "password": "test",
     "database": "tuGerente_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "host": "0.0.0.0",
+    "dialect": "mysql",
+    "port": "33060"
   },
   "production": {
     "username": "root",
-    "password": null,
+    "password": "test",
     "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "host": "0.0.0.0",
+    "dialect": "mysql",
+    "port": "33060"
   }
 }
 
