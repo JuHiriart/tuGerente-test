@@ -19,13 +19,13 @@ test técnico de tuGerente
 
 ## Endpoints
 
--**GET reserva/**
+- ***GET reserva/***
   - devuelve la lista completas de las reservas.
--**GET reserva/:id**
+- ***GET reserva/:id***
   - devuelve una reserva especificada con el ID con mas detalles.
--**POST reserva/**
+- ***POST reserva/***
   - permite cargar una nueva reserva en formato JSON.
--**DELETE reserva/:id**
+- ***DELETE reserva/:id***
   - elimina la reserva especificada con el ID.
 
 
